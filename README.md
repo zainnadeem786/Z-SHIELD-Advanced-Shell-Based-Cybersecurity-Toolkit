@@ -120,9 +120,10 @@ sudo ./install.sh
 Then run:
 ./zshield
 ```
-
+```bash
 ✅ Requirements
 Z-SHIELD requires Kali Linux with the following tools pre-installed (they are by default):
+
 
 nmap
 dnsenum
@@ -131,7 +132,7 @@ tcpdump
 clamscan
 netstat
 msfconsole (optional for exploitation)
-
+```
 
 ⚠️ Disclaimer
 Z-SHIELD is intended for educational and authorized penetration testing only. Unauthorized use against systems you don't own or have explicit permission to test is illegal and unethical.
