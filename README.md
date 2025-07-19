@@ -16,6 +16,11 @@ Z-SHIELD is a fully terminal-based offensive security toolkit built in Bash, des
 
 ---
 
+### Z-SHIELD Main Menu
+
+![ZSHIELD Menu](screenshots/banner.png)
+
+
 ## 📁 Modules Overview
 
 ### 1️⃣ Reconnaissance Module
@@ -47,6 +52,10 @@ Z-SHIELD is a fully terminal-based offensive security toolkit built in Bash, des
 | MX     | mail.example.com       |
 +--------+------------------------+
 ```
+### Reconnaissance Module Output
+
+![Recon Module](screenshots/recon-output.png)
+
 
 2️⃣ Exploitation Module
 Purpose: Launch Metasploit Framework with preset payload handling.
@@ -64,6 +73,11 @@ Clean interactive menu
 │         Z-SHIELD Exploitation            │
 ╰──────────────────────────────────────────╯
 ```
+### Exploitation Module Output
+
+![Malware Analysis](screenshots/exploit-output.png)
+
+
 3️⃣ Malware Analysis Module
 Purpose: Scan directories for malware or suspicious files.
 
@@ -87,6 +101,10 @@ Fast scanning, CLI-friendly
 +-------------------------+---------------+
 
 ```
+### Malware Module Output
+
+![Malware Analysis](screenshots/malware.png)
+
 
 4️⃣ Network Monitoring Module
 Purpose: Monitor traffic on a selected network interface.
@@ -105,6 +123,11 @@ Can also show real-time connection tracking
 ╰──────────────────────────────────────────╯
 
 ```
+### Network Module Output
+
+![Malware Analysis](screenshots/Network.png)
+
+
 🚀 Installation
 Run the following commands on Kali Linux:
 
