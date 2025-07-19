@@ -2,7 +2,6 @@
 **Professional Offensive Security Toolkit by ZAIN NADEEM**
 
 Z-SHIELD is a fully terminal-based offensive security toolkit built in Bash, designed to provide fast, aggressive, and visually professional cybersecurity assessments using only Kali Linux's built-in tools.
-
 ---
 
 ## 📌 Features
