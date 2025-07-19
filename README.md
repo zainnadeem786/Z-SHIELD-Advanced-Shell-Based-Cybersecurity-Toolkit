@@ -142,3 +142,8 @@ ZAIN NADEEM
 Cybersecurity Engineer | Python Developer | Ethical Hacker
 
 Z-SHIELD is part of an ongoing professional offensive toolkit project developed and maintained by Zain Nadeem. Contributions, ideas, and forks are welcome.
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE) .
+
