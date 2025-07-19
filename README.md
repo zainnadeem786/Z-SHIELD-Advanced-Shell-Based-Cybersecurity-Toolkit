@@ -28,7 +28,7 @@ Z-SHIELD is a fully terminal-based offensive security toolkit built in Bash, des
 
 📂 Tools Used: `nmap`, `dnsenum`, `wpscan`
 
-
+```bash
 ╭──────────────────────────────────────────╮
 │         Z-SHIELD Recon Module            │
 ╰──────────────────────────────────────────╯
@@ -46,7 +46,7 @@ Z-SHIELD is a fully terminal-based offensive security toolkit built in Bash, des
 | A      | 192.0.2.1              |
 | MX     | mail.example.com       |
 +--------+------------------------+
-
+```
 
 2️⃣ Exploitation Module
 Purpose: Launch Metasploit Framework with preset payload handling.
@@ -59,10 +59,11 @@ Clean interactive menu
 
 📂 Tools Used: msfconsole (Kali built-in)
 
+```bash
 ╭──────────────────────────────────────────╮
 │         Z-SHIELD Exploitation            │
 ╰──────────────────────────────────────────╯
-
+```
 3️⃣ Malware Analysis Module
 Purpose: Scan directories for malware or suspicious files.
 
@@ -74,6 +75,7 @@ Fast scanning, CLI-friendly
 
 📂 Tools Used: clamscan
 
+```bash
 ╭──────────────────────────────────────────╮
 │       Z-SHIELD Malware Analysis          │
 ╰──────────────────────────────────────────╯
@@ -84,6 +86,7 @@ Fast scanning, CLI-friendly
 | /home/user/infected.sh  | MALWARE FOUND |
 +-------------------------+---------------+
 
+```
 
 4️⃣ Network Monitoring Module
 Purpose: Monitor traffic on a selected network interface.
@@ -96,13 +99,16 @@ Can also show real-time connection tracking
 
 📂 Tools Used: tcpdump, netstat, iftop
 
+```bash
 ╭──────────────────────────────────────────╮
 │     Z-SHIELD Network Monitoring          │
 ╰──────────────────────────────────────────╯
 
+```
 🚀 Installation
 Run the following commands on Kali Linux:
 
+```bash
 git clone https://github.com/zainnadeem786/zshield.git
 
 cd zshield
@@ -113,7 +119,7 @@ sudo ./install.sh
 
 Then run:
 ./zshield
-
+```
 
 ✅ Requirements
 Z-SHIELD requires Kali Linux with the following tools pre-installed (they are by default):
